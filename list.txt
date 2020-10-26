@@ -1,4 +1,12 @@
+adding headings to the file
+Fuits
 adding items to the list
 bananas
 apples
 strawberries
+
+Diary
+
+Fish
+
+Meat
