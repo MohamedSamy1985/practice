@@ -6,6 +6,7 @@ apples
 strawberries
 
 Diary
+Milk
 
 Fish
 
