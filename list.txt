@@ -1,0 +1,4 @@
+adding items to the list
+bananas
+apples
+strawberries
